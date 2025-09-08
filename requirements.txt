@@ -1,0 +1,33 @@
+# MutPPI Requirements
+# Python version: 3.10
+
+# Core ML/DL frameworks
+# Note: Install PyTorch with CUDA support using:
+# pip install torch==1.13.1+cu116 --extra-index-url https://download.pytorch.org/whl/cu116
+torch==2.4.0
+torchvision==0.19.0
+
+# Graph Neural Networks
+# Install after PyTorch: pip install torch-geometric
+torch-geometric==2.6.1
+
+# Protein Language Models
+transformers==4.48.1
+
+# Scientific computing
+numpy==1.26.4
+scipy==1.14.1
+pandas==2.2.3
+
+# Machine learning
+scikit-learn==1.6.1
+
+# Bioinformatics
+biopython==1.85
+
+# Progress bars and utilities
+tqdm==4.66.6
+
+# Optional: Jupyter notebook support
+ipykernel==6.29.5
+matplotlib==3.9.2
