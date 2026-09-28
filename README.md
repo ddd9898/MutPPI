@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 Then, download the checkpoints of ESM-2 650M from the [official link](https://huggingface.co/facebook/esm2_t33_650M_UR50D) or [my copy](https://cloud.tsinghua.edu.cn/d/dae30e6d4ef94707b338/), and put `esm2_t33_650M_UR50D` in the `models` folder.
 
-Download checkpoints from [Link]([checkpoint](https://1drv.ms/f/c/88a3ba3c5aa53eeb/IgBwpGDy2PbgSKzB-xeQpPfxATAWPD72GojAIKK37ryVLj4?e=nN5RYm)), unzip files and move them into the `output/checkpoint` folder.
+Download checkpoints from [Link]([checkpoint](https://1drv.ms/f/c/88a3ba3c5aa53eeb/IgAbWZ8VKhFzR5eRmUE59h1VAf-eTCtq6MLiPRkm_l4fUiQ?e=7qqSba)), unzip files and move them into the `output/checkpoint` folder.
 
 The above installation may take a few hours depending on your internet conditions.
 
