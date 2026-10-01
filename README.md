@@ -20,7 +20,7 @@ cd MutPPI
 pip install -r requirements.txt
 ```
 
-Then, download the checkpoints of ESM-2 650M from the [official link](https://huggingface.co/facebook/esm2_t33_650M_UR50D) or [my copy](https://cloud.tsinghua.edu.cn/d/dae30e6d4ef94707b338/), and put `esm2_t33_650M_UR50D` in the `models` folder.
+Then, download the checkpoints of ESM-2 650M from the [official link](https://huggingface.co/facebook/esm2_t33_650M_UR50D) or [my copy](https://1drv.ms/f/c/88a3ba3c5aa53eeb/IgCTz-P4Hq4XR6ZbvCocseOwAWdJ3TfqTrE7ThP9dV8EtjE?e=E0MTCm), and put `esm2_t33_650M_UR50D` in the `models` folder.
 
 Download checkpoints from [Link](https://1drv.ms/f/c/88a3ba3c5aa53eeb/IgCc3RyFs0jAQJgbJ5LH_ZzbAb4Tx4MEKQGn1e4gKVIBgSY?e=ogap4N), unzip files and move them into the `output/checkpoint` folder.
 
